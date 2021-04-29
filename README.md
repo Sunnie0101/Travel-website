@@ -5,5 +5,7 @@
 網站網址：
 https://william1226336816.wixsite.com/website  
 於Wix平台上製作網頁  
-使用語言JavaScript
+使用語言JavaScript  
+### 網路架構圖
+![image](https://github.com/Sunnie0101/Travel-website/blob/main/旅刻_網路架構圖.jpg)
 
